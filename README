@@ -1,0 +1,8 @@
+This is a bit more full featured starter pack for the Google AI challenge. To run your bot, use 'rake play'
+
+
+You will need:
+
+* ruby
+* rake
+* python
