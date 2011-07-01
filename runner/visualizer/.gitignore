@@ -1,0 +1,8 @@
+3rdparty
+downloads
+build/*
+local.properties
+.ant-targets-build.xml
+.classpath
+replay.html
+jaropt.log
