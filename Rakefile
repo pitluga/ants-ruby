@@ -13,6 +13,7 @@ task :play do
       "--log_dir ../log",
       "--turns 1000",
       "--log_stderr",
+      "--verbose",
       "--map_file ../maps/symmetric_maps/symmetric_10.map",
       '"ruby ../MyBot.rb"',   
       '"python ../sample_bots/GreedyBot.py"',
